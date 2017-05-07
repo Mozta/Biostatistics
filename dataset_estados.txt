@@ -1,0 +1,33 @@
+Nacional	74.95
+Aguascalientes	75.85
+Baja California	74.01
+Baja California Sur	76.04
+Campeche	75.25
+Coahuila de Zaragoza	75.72
+Colima	75.91
+Chiapas	72.81
+Chihuahua	72.94
+Ciudad de México	76.09
+Durango	75.63
+Guanajuato	75.47
+Guerrero	72.89
+Hidalgo	74.43
+Jalisco	75.53
+México	75.24
+Michoacán de Ocampo	74.73
+Morelos	75.68
+Nayarit	75.09
+Nuevo León	76.37
+Oaxaca	72.98
+Puebla	74.81
+Querétaro	75.39
+Quintana Roo	75.64
+San Luis Potosí	74.69
+Sinaloa	75.47
+Sonora	75.32
+Tabasco	74.77
+Tamaulipas	75.75
+Tlaxcala	75.24
+Veracruz de Ignacio de la Llave	74.08
+Yucatán	75.49
+Zacatecas	75.26
